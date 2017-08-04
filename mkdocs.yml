@@ -33,12 +33,12 @@ pages:
     - Select By Location: Select-By-Location.md
     - Spatial Join: Spatial-Join.md
     - Table to Relationship Class: Table-to-Relationship-Class.md
-- Field Calculator (Python)
+- Field Calculator (Python):
     - If Then Statements: Field-Calculator-Python-If-Then-Statements.md
     - Joining and Concatenation: Field-Calculator-Python-Joining-Concatenation.md
     - Slicing: Field-Calculator-Python-Slicing.md
     - String Manipulation: Field-Calculator-Python-String-Manipulation.md
-- Parcel Fabrics
+- Parcel Fabrics:
     - COGO: COGO.md
     - COGO Tools Drawing Lines: COGO-Tools:-Drawing-Lines.md
     - COGO Tools Labeling Lines: COGO-Tools:-Labeling-Lines.md
