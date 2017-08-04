@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>/ArcMap-EMF-files/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/Converting-Degrees-to-Decimals/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/Converting-Serial-dates-to-MM-DD-YYYY/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/Importing-Points-with-Latitude-and-Longitude/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/Make-Query-Table/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/Parsing-KML-HTML-Tables/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/Select-By-Attributes/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/Select-By-Location/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/Spatial-Join/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/Table-to-Relationship-Class/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/Field-Calculator-Python-If-Then-Statements/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/Field-Calculator-Python-Joining-Concatenation/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/Field-Calculator-Python-Slicing/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/Field-Calculator-Python-String-Manipulation/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/COGO/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/COGO-Tools:-Drawing-Lines/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/COGO-Tools:-Labeling-Lines/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/Creating-a-Parcel-Fabric-from-Polygons/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/Labeling-a-Parcel-Fabric-with-the-Maplex-Engine/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/QGIS:-QTiles/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/Vector-Tiles/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/GDAL-and-OGR/</loc>
+     <lastmod>2017-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+</urlset>
